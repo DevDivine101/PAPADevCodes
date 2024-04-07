@@ -7,7 +7,7 @@ I'm Divine Uwandu PAPADevCodes, a skilled MERN stack developer with 2+ years of 
 Skills: React, Tailwindcss, JavaScript, TypeScript, Next.js14, Mongodb, ExpressJs, NodeJs, HTML, CSS, Git
 
 🔭 I’m currently working on a better portfolio
-🌱 I’m currently learning Python and Cyber Security
+🌱 I’m currently learning Cyber Security
 📫 How to reach me: divineuwandu84@gmail.com
 ⚡ Fun fact: I code Form 10:00 am to  4:00 pm hours a day
 
