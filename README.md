@@ -1,8 +1,8 @@
-Hi there 👋, my name is Divine PAPADevCodes
+Hi there 👋, my name is Divine
 I'm a Full-Stack web developer
 I'm a Full-Stack web developer
 
-I'm Divine Uwandu  a skilled MERN stack developer with 2+ years of experience. I build robust web applications using MongoDB, Express.js, React.js, and Node.js. From database design to front-end development, I'm passionate about creating seamless user experiences and delivering top-notch solutions. Let's collaborate and bring your ideas to life!
+I'm Divine Uwandu a skilled MERN stack developer with 2+ years of experience. I build robust web applications using MongoDB, Express.js, React.js, and Node.js. From database design to front-end development, I'm passionate about creating seamless user experiences and delivering top-notch solutions. Let's collaborate and bring your ideas to life!
 
 Skills: React, Tailwindcss, JavaScript, TypeScript, Next.js14, Mongodb, ExpressJs, NodeJs, HTML, CSS, Git
 
